@@ -5,6 +5,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class TestP {
 	
 	public static void main(String[] args) {
+		
+		
 		int a[]= {1,2,3,5,6};
 		int e=a.length+1;
 		int sum=0;
@@ -17,8 +19,9 @@ public class TestP {
 		
 		s=n-sum;
 		System.out.println(s);
+		System.out.println("");
 		
-	}
 	
+	}
 
 }
